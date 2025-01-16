@@ -54,3 +54,6 @@ Make the grid size adjustable.
 Add a pause and resume feature.
 
 
+# Deployed Link : https://dharm-singh-45.github.io/snake-game/
+
+
